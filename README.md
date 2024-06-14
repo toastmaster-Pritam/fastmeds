@@ -39,11 +39,6 @@ A Hospital can
 * Inventory Management features such as adding , removing items and keeping track of transactions
 * A User has to ask for the required item and quantity and a list of locations having sufficient resources in the same city is shown in distance-sorted order.
 
-## View live App
-
-Hosted at **https://fastmeds.herokuapp.com/**
-
-
 ## Tech Stack Used
 
 ### The MERN Stack
